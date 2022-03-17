@@ -1,7 +1,7 @@
  
 
 
-[![cnrnews's github stats](https://github-readme-stats.vercel.app/api?username=cnrnews)](https://github.com/cnrnews/github-readme-stats)
+[![cnrnews's github stats](https://github-readme-stats.vercel.app/api?username=cnrnews)](https://github.com/cnrnews)
 
 <!--
 **cnrnews/cnrnews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
